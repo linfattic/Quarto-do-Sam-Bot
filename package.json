@@ -1,0 +1,25 @@
+{
+  "name": "sambot",
+  "version": "1.0.0",
+  "description": "bot legal",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrotaBr/Quarto-do-Sam-Bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Trota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrotaBr/Quarto-do-Sam-Bot/issues"
+  },
+  "homepage": "https://github.com/TrotaBr/Quarto-do-Sam-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
